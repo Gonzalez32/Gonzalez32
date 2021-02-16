@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, 👋 my name is Juan Gonzalez.
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonzalez32)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Gonzalez32/Gonzalez32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
