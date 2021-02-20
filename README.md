@@ -2,10 +2,10 @@
 😄 Pronouns:(He/Him)
 #### I am a full stack web developer, a self-starter that loves to learn, and someone who tries to make the most out of difficult situations. As a former machine operator I understand the vision where goals must be met as team lead. I use my past experience to help others and influence my decisions for the future.
 
-🔭 I’m currently working on https://github.com/Gonzalez32/Meal-Log
-🌱 I’m currently learning Ruby on Rails.
-💬 Ask me about anything I'm always open to chat. 
-📫 How to reach me: juangonzalezrose@gmail.com https://www.linkedin.com/in/juan-gonzalez93/
+* 🔭 I’m currently working on https://github.com/Gonzalez32/Meal-Log
+* 🌱 I’m currently learning Ruby on Rails.
+* 💬 Ask me about anything I'm always open to chat. 
+* 📫 How to reach me: juangonzalezrose@gmail.com https://www.linkedin.com/in/juan-gonzalez93/
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonzalez32&show_icons=true&theme=cobalt)
