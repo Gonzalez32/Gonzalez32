@@ -1,4 +1,4 @@
-### Hi there, 👋 my name is Juan Gonzalez
+### Hello all, 🤝 my name is Juan Gonzalez. It's nice to meet you.🤌
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 
