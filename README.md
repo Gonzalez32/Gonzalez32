@@ -2,7 +2,7 @@
 #### Full Stack Developer
 ![Full Stack Developer](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 
-I am a full stack web developer, a self-starter that loves to learn, and someone who tries to make the most out of difficult situations. As a former machine operator I understand the vision where goals must be met as team lead. I use my past experience to help others and influence my decisions for the future.
+I am a full stack developer, a self-starter that loves to learn, and someone who tries to make the most out of difficult situations. As a former machine operator I understand the vision where goals must be met as team lead. I use my past experience to help others and influence my decisions for the future.
 
 Skills: REACT / JS / HTML / CSS / Ruby / Python
 
