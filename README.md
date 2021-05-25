@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS / Ruby / Python
 - 🔭 I’m currently working on ReactJS.
 - 🌱 I’m currently learning ReactJS 
 - 📫 How to reach me: juangonzalezrose@gmail.com 
-- 👀 Check out my React-Portfolio: ![Juan Gonzalez Portfolio](https://www.juangonzalez.page)
+- 👀 Check out my React-Portfolio: [Juan Gonzalez Portfolio](https://juangonzalez.page)
 
 
 [<i)mg src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Gonzalez32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-gonzalez93//)  
