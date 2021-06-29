@@ -7,7 +7,7 @@ I am a full stack developer, a self-starter that loves to learn, and someone who
 Skills: REACT / JS / HTML / CSS / Ruby / Python
 
 -    Pronouns: (He/Him) 
-- 🔭 I’m currently working on React Blog
+- 🔭 I’m currently working on [Tapmate](https://github.com/Gonzalez32/Tapmate)
 - 🌱 I’m currently learning ReactJS 
 - 📫 How to reach me: juangonzalezrose@gmail.com 
 - 👀 Check out my React-Portfolio: [Juan Gonzalez Portfolio](https://juangonzalez.page)
