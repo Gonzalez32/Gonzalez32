@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS / Ruby / Python
 
 -    Pronouns: (He/Him) 
 - 🔭 I’m currently working on [Tapmate](https://github.com/Gonzalez32/Tapmate)
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning ReactJS & Node.js
 - 📫 How to reach me: juangonzalezrose@gmail.com 
 - 👀 Check out my React-Portfolio: [Juan Gonzalez Portfolio](https://juangonzalez.page)
 
