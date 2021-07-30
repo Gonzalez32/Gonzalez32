@@ -7,7 +7,7 @@ I am a full stack developer, a self-starter that loves to learn, and someone who
 Skills: REACT / JS / HTML / CSS / Ruby / Python
 
 -    Pronouns: (He/Him) 
-- 🔭 I’m currently working on [django-flutter](https://github.com/Gonzalez32/)
+- 🔭 I’m currently working on [django-flutter](https://github.com/Gonzalez32/django-flutter)
 - 🌱 I’m currently learning Django & Flutter
 - 📫 How to reach me: juangonzalezrose@gmail.com 
 - 👀 Check out my React-Portfolio: [Juan Gonzalez Portfolio](https://juangonzalez.page)
