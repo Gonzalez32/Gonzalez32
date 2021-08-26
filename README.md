@@ -1,8 +1,9 @@
-### Hello all, my name is Juan Gonzalez. It's nice to meet you. 🤝
+### My name is Juan Gonzalez. It's nice to meet you. 🤝
 #### Full Stack Developer
 ![Full Stack Developer](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 
-I am a full stack developer, a self-starter that loves to learn, and someone who tries to make the most out of difficult situations. As a former machine operator I understand the vision where goals must be met as team lead. I use my past experience to help others and influence my decisions for the future.
+A dedicated, optimistic, and self-driven full-stack software engineer that loves to learn and who tries to make the most out of difficult situations. This passion led me to challenge myself daily, I'm not comfortable with settling and I'm always looking for an opportunity to do better and achieve greatness. Ready to make a positive impact, join a great team and grow within. With 6 years of machine operation services and project management experience and 1 year worth of web development experience.
+
 
 Skills: REACT / JS / HTML / CSS / Ruby / Python
 
