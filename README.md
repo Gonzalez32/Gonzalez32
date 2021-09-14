@@ -8,8 +8,8 @@ A dedicated, optimistic, and self-driven full-stack software engineer that loves
 Skills: REACT / JS / HTML / CSS / Ruby / Python
 
 -    Pronouns: (He/Him) 
-- 🔭 I’m currently working on [django & flutter](https://github.com/Gonzalez32/django-flutter)
-- 🌱 I’m currently learning Django & Flutter
+- 🔭 I’m currently working on Ruby on Rails
+- 🌱 I’m currently learning RoR
 - 📫 How to reach me: juangonzalezrose@gmail.com 
 - 👀 Check out my React-Portfolio: [Juan Gonzalez Portfolio](https://juangonzalez.page)
 
