@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS / Ruby / Python
 -    Pronouns: (He/Him) 
 - 🔭 I’m currently working on Ruby on Rails
 - 🌱 I’m currently learning RoR
-- 📫 How to reach me: juangonzalezrose@gmail.com 
+- 📫 How to reach me: https://www.linkedin.com/in/juan-gonzalez93/ 
 - 👀 Check out my React-Portfolio: [Juan Gonzalez Portfolio](https://juangonzalez.page)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-gonzalez93//)  
