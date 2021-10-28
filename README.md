@@ -8,8 +8,8 @@ A dedicated, optimistic, and self-driven full-stack software engineer that loves
 Skills: REACT / JS / HTML / CSS / Ruby / Python
 
 -    Pronouns: (He/Him) 
-- 🔭 I’m currently working on Ruby on Rails
-- 🌱 I’m currently learning RoR
+- 🔭 I’m currently working on Node.js
+- 🌱 I’m currently learning Js
 - 📫 How to reach me: https://www.linkedin.com/in/juan-gonzalez93/ 
 - 👀 Check out my React-Portfolio: [Juan Gonzalez Portfolio](https://juangonzalez.page)
 
