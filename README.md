@@ -9,10 +9,10 @@ Ready to make a positive impact, join a great team and grow within.
 Skills: REACT / JS / HTML / CSS / Ruby / Python
 
 -    Pronouns: (He/Him) 
-- 🔭 I’m currently working on [Ruby_Apache](https://github.com/Gonzalez32/Ruby_Apache)
+- 🔭 I’m currently WFH
 - 🌱 I’m currently learning Ruby
 - 📫 How to reach me: https://www.linkedin.com/in/juan-gonzalez93/ 
-- 👀 Check out my React-Portfolio: [Juan Gonzalez Portfolio](https://juangonzalez.page) - IN DEVELOPMENT: % 69
+- 👀 Check out my React-Portfolio: [Juan Gonzalez Portfolio](https://juangonzalez.page) - SORRY IN DEVELOPMENT!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-gonzalez93//)  
 
