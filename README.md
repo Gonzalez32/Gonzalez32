@@ -1,15 +1,15 @@
-### My name is Juan Gonzalez. It's nice to meet you. 🤝
-#### FULL-STACK ENGINEER
+## My_Name => Juan Gonzalez 
+##### Welcome to my git_readme. 🤝
+##### FULL_STACK_ENGINEER?
 ![Full Stack Developer](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 
-I am a full-stack engineer who tries to make the most out of difficult situations. I'm not comfortable with settling and I’m always looking for opportunities to do better. I still get nervous at daily stand-up and stand-down, but I enjoy these moments because we’re all together as a team. I am excited to solve, adept at learning quickly with a driven and positive attitude. I look to find new creative ways to inspire and better the lives of others.
-Ready to make a positive impact, join a great team and grow within.
+Full-stack engineer who tries to make the most out of difficult situations. I'm not comfortable with settling, I’m always looking for opportunities to improve. I still get nervous at daily stand-ups, but I enjoy these moments because we’re all together as a team.
 
 
 Skills: REACT / JS / HTML / CSS / Ruby / Python
 
 -    Pronouns: (He/Him) 
-- 🔭 I’m currently WFH
+- 💻 I’m currently WFH
 - 🌱 I’m currently learning Ruby
 - 📫 How to reach me: https://www.linkedin.com/in/juan-gonzalez93/ 
 - 👀 Check out my React-Portfolio: [Juan Gonzalez Portfolio](https://juangonzalez.page) - SORRY IN DEVELOPMENT!
