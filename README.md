@@ -3,7 +3,7 @@
 ##### FULL_STACK_ENGINEER?
 ![Full Stack Developer](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 
-Nervous yet exhilarated engineer who thrives in the camaraderie of team dynamics. I find solace in our daily standups and standdowns, where we come together as a cohesive unit to tackle challenges head-on. With a keen eye for detail and a knack for problem-solving, I am committed to contributing my best to every project, ensuring our collective success.
+Thrive in environments that challenge me to grow and evolve, pushing boundaries to achieve greater heights. Nervous yet exhilarated engineer who thrives in the camaraderie of team dynamics. I find solace in daily stand-ups, where we come together as a unit to tackle challenges head-on. Eye for detail, committed to contributing my best efforts to every project, ensuring our collective success as a team. 
 
 
 Skills: REACT / JS / HTML / CSS / Ruby / Python
