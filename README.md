@@ -3,7 +3,7 @@
 ##### FULL_STACK_ENGINEER?
 ![Full Stack Developer](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 
-Full-stack engineer who tries to make the most out of difficult situations. I'm not comfortable with settling, I’m always looking for opportunities to improve. I still get nervous at daily stand-ups, but I enjoy these moments because we’re all together as a team.
+Nervous yet exhilarated engineer who thrives in the camaraderie of team dynamics. I find solace in our daily standups and standdowns, where we come together as a cohesive unit to tackle challenges head-on. With a keen eye for detail and a knack for problem-solving, I am committed to contributing my best to every project, ensuring our collective success.
 
 
 Skills: REACT / JS / HTML / CSS / Ruby / Python
