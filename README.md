@@ -3,7 +3,7 @@
 ##### FULL_STACK_ENGINEER?
 ![Full Stack Developer](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 
-I take pride in my ability to handle high-pressure situations calmly and efficiently, ensuring that systems are up and running smoothly. My commitment to customer satisfaction and service excellence is at the core of everything I do. Let’s connect to discuss how I can contribute to the success of your team and organization. 
+I take pride in my ability to handle high-pressure situations calmly and efficiently, ensuring that systems are up and running smoothly. My commitment to customer satisfaction and service excellence is at the core of everything I do. Let’s connect & chat. 
 
 
 Skills: REACT / JS / HTML / CSS / Ruby / Python
